@@ -20,4 +20,4 @@ Usage
 ======
 Place your caret on either the open or close tag of some HTML or XML and then hit Tab. Your caret will jump to the opposing tag ready for whatever additional work you wish to engage in. This can be particularly useful when navigating around large XML documents.
 
-[](Screenshots/TTNR-HTML.gif)
+![](Screenshots/TTNR-HTML.gif)
